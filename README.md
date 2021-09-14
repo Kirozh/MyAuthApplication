@@ -1,1 +1,1 @@
-Login app using FireBase fot authentification
+Login app using FireBase for authentification
