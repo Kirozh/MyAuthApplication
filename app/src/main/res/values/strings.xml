@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAuthApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">password</string>
+    <string name="password_repeat">password repeat</string>
+    <string name="input_email">Input email</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="registration">Registration</string>
+    <string name="signOut">Sign out</string>
+</resources>

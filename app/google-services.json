@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695838913237",
+    "project_id": "myauthapplication-574d8",
+    "storage_bucket": "myauthapplication-574d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695838913237:android:73951a46ed6307a796a85c",
+        "android_client_info": {
+          "package_name": "com.example.kirozh.myauthapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695838913237-888epl84oucq9tl0s7lt7i59fg8t8bv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCq6Xm-9GL6mtdMktwROR9CQDIi3S8Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695838913237-888epl84oucq9tl0s7lt7i59fg8t8bv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
